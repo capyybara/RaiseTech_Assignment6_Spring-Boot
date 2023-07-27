@@ -1,7 +1,4 @@
-# RaiseTech_Assignment6_Spring-Boot
-## 第6回課題
-
-<br>
+# 第6回課題 Spring Boot
 
 ## Hello Worldを表示させるためのコード
 
